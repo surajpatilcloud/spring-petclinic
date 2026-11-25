@@ -182,7 +182,7 @@
 <distributionManagement>
     <repository>
         <id>nexus-releases</id>
-        <url>http://13.207.68.112:32768/repository/maven-releases/</url>
+        <url>http://13.233.204.0:32773/repository/maven-releases/</url>
     </repository>
 </distributionManagement>
   <build>
